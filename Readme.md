@@ -1,5 +1,5 @@
 # surface-dial-test
 
-[!screenshot](/screenshot.png)
+![screenshot](/screenshot.png)
 
 iT w0rKs
